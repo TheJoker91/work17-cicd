@@ -1,4 +1,4 @@
-name: My first pipeline
+name: Resume Pipeline
 
 on: push
 
